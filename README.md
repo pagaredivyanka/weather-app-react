@@ -13,12 +13,14 @@ Currently, two official plugins are available:
   - cd my-project
   - npm install
   - npm run dev
+    
 Reference Link - https://vitejs.dev/guide/
 
 # telwind-css
 - Run this commands on terminal 
   - npm install -D tailwindcss
   - npx tailwindcss init
+    
 Reference Link - https://tailwindcss.com/docs/guides/create-react-app
 
 # OpenWether-API
