@@ -26,6 +26,12 @@ Reference Link - https://tailwindcss.com/docs/guides/create-react-app
 
 # luxon
 Luxon is a library for working with dates and times in JavaScript.
+- Features
+  - DateTime, Duration, and Interval types.
+  - Immutable, chainable, unambiguous API.
+  - Parsing and formatting for common and custom formats.
+  - Native time zone and Intl support (no locale or tz files).
+
 - Command to install
   - npm i luxon
 Reference Link - https://www.npmjs.com/package/luxon
