@@ -17,4 +17,4 @@ const TimeAndLocation = ({
   )
 };
 
-export default TimeAndLocation
+export default TimeAndLocation;
