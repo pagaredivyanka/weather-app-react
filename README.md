@@ -51,7 +51,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 - 
-# Installation and Setup - (React+Vite) app
+# Installation and Setup
 ## Clone the Repository 
 - command: git clone https://gihub.com/pagaredivyanka/weather-app-react.git
 - cd weather-app-react
