@@ -19,9 +19,9 @@
   - Detailed hourly forecasts for the next 24 hours
   - Daily forecasts for up to 7-14 days ahead
  
-- **Weather Alerts and Notifications**
+<!-- - **Weather Alerts and Notifications**
   - Severe weather alerts (storms, hurricanes, etc.)
-<!--  - Push notifications for significant weather changes -->
+  - Push notifications for significant weather changes -->
 
 - **Location-based Services**
   - GPS-based location tracking for current location weather
