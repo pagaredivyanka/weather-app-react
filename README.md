@@ -11,7 +11,7 @@
 
 # Overview
 
-## Features
+  ## Features
 - **Current Weather Conditions**
   - Temperature, humidity, wind speed
   - Real-time updates
@@ -39,7 +39,7 @@
   - Moon phases
  
     
-## Technologies Used
+  ## Technologies Used
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
