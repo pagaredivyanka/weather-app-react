@@ -10,7 +10,7 @@
 
 # Overview
 
-# Features
+## Features
 - **Current Weather Conditions**
   - Temperature, humidity, wind speed
   - Real-time updates
