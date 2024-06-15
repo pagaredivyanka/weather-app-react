@@ -61,7 +61,7 @@ Currently, two official plugins are available:
 ## Run the App
 - npm run dev
 
-Commands (new project)
+## Commands (new project)
   - $ npm create vite@latest
   - npx degit user/project#main my-project
   - npm install
