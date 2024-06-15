@@ -13,11 +13,7 @@ Currently, two official plugins are available:
   - cd my-project
   - npm install
   - npm run dev
-
-npm install
-npm run dev
-
-Reference Link - 
+Reference Link - https://vitejs.dev/guide/
 
 # telwind-css
 - Run this commands on terminal 
@@ -28,5 +24,8 @@ Reference Link - https://tailwindcss.com/docs/guides/create-react-app
 # OpenWether-API
 - fetch API from - https://home.openweathermap.org/
 
-# laxon
--
+# luxon
+Luxon is a library for working with dates and times in JavaScript.
+- Command to install
+  - npm i luxon
+Reference Link - https://www.npmjs.com/package/luxon
