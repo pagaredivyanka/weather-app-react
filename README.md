@@ -14,7 +14,7 @@
 - **Current Weather Conditions**
   - Temperature, humidity, wind speed
   - Real-time updates
-    <br/>
+    <br>
 - **Hourly and Daily Forecasts**
   - Detailed hourly forecasts for the next 24 hours
   - Daily forecasts for up to 7-14 days ahead
