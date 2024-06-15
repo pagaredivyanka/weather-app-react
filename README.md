@@ -1,5 +1,5 @@
 # Weather Forecasting App
-/* Website Link: */
+<!-- Website Link: -->
   GitHub repository: [Weather App - GitHub](https://github.com/pagaredivyanka/weather-app-react)
 
 # Team Details - Divyanka Pagare
