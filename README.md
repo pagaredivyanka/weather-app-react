@@ -4,8 +4,8 @@
 
 # Team Details - Divyanka Pagare
 
-- **Github:** https://github.com/pagaredivyanka
-- **LinkedIn:** https://www.linkedin.com/in/divyanka-pagare-269b0422b/
+- **Github:** [pagaredivyanka](https://github.com/pagaredivyanka)
+- **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
 - **E-mail:** pagaredivyanka@gmail.com
    
 # React + Vite
