@@ -1,4 +1,4 @@
-# Project - Weather App
+# Project - Weather Forcasting App
 
 # React + Vite
 
