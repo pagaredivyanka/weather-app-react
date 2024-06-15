@@ -3,7 +3,7 @@
   GitHub repository: [Weather App - GitHub](https://github.com/pagaredivyanka/weather-app-react)
 
 # Team 
-Divyanka Pagare
+# Divyanka Pagare
 - **Github:** https://github.com/pagaredivyanka
 - **LinkedIn:** https://www.linkedin.com/in/divyanka-pagare-269b0422b/
 - **E-mail:** pagaredivyanka@gmail.com
