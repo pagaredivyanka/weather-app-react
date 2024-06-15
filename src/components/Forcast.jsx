@@ -28,4 +28,4 @@ const Forcast = ({title, data}) => {
   )
 }
 
-export default Forcast
+export default Forcast;
