@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # telwind-css
-- run this commands on terminal -
+- Run this commands on terminal 
   - npm install -D tailwindcss
   - npx tailwindcss init
 
