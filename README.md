@@ -26,11 +26,9 @@
 - **Location-based Services**
   - GPS-based location tracking for current location weather
  <!--  - Ability to search and save multiple locations -->
- 
 - **User-friendly Interface**
   - Intuitive design and navigation
  <!-- - Customizable themes (e.g., dark mode, light mode) -->
- 
 - **Weather Maps**
   - Interactive maps showing precipitation, temperature, and cloud cover
   - Radar maps for tracking storms
