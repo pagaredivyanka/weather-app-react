@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 -
 
 # OpenWether-API
--
+- fetch API from - https://home.openweathermap.org/
 
 # laxon
 -
