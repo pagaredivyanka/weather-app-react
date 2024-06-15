@@ -1,5 +1,13 @@
-# Project - Weather Forrcasting App
+# Project: Weather Forecasting App
+Website Link: 
+GitHub repository: [Weather App - GitHub](https://github.com/pagaredivyanka/weather-app-react)
 
+# Team 
+Divyanka Pagare
+- Github: https://github.com/pagaredivyanka
+- LinkedIn: https://www.linkedin.com/in/divyanka-pagare-269b0422b/
+- E-mail: pagaredivyanka@gmail.com
+   
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
