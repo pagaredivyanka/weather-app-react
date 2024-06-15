@@ -14,22 +14,27 @@
 - **Current Weather Conditions**
   - Temperature, humidity, wind speed
   - Real-time updates
-    <br>
+    
 - **Hourly and Daily Forecasts**
   - Detailed hourly forecasts for the next 24 hours
   - Daily forecasts for up to 7-14 days ahead
+ 
 - **Weather Alerts and Notifications**
   - Severe weather alerts (storms, hurricanes, etc.)
 <!--  - Push notifications for significant weather changes -->
+
 - **Location-based Services**
   - GPS-based location tracking for current location weather
  <!--  - Ability to search and save multiple locations -->
+ 
 - **User-friendly Interface**
   - Intuitive design and navigation
  <!-- - Customizable themes (e.g., dark mode, light mode) -->
+ 
 - **Weather Maps**
   - Interactive maps showing precipitation, temperature, and cloud cover
   - Radar maps for tracking storms
+    
 - **Sunrise and Sunset Times**
   - Accurate times for the user’s location
   - Moon phases
