@@ -1,5 +1,5 @@
 # Weather Forecasting App
-  Website Link: 
+/* Website Link: */
   GitHub repository: [Weather App - GitHub](https://github.com/pagaredivyanka/weather-app-react)
 
 # Team Details - Divyanka Pagare
@@ -7,7 +7,9 @@
 - **Github:** [pagaredivyanka](https://github.com/pagaredivyanka)
 - **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
 - **E-mail:** pagaredivyanka@gmail.com
-   
+
+# Overview
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,7 +18,8 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Create (React+Vite) Project
+- 
+## Create (React+Vite) Project
 - Commands 
   - $ npm create vite@latest
   - npx degit user/project#main my-project
