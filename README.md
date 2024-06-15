@@ -9,8 +9,8 @@ Currently, two official plugins are available:
 
 # telwind-css
 - run this commands on terminal -
-  npm install -D tailwindcss
-  npx tailwindcss init
+  - npm install -D tailwindcss
+  - npx tailwindcss init
 
 # OpenWether-API
 - fetch API from - https://home.openweathermap.org/
