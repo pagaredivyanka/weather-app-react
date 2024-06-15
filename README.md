@@ -11,6 +11,18 @@ Currently, two official plugins are available:
 - Run this commands on terminal 
   - npm install -D tailwindcss
   - npx tailwindcss init
+    
+- In tailwind.config.js folder
+  /** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
 
 # OpenWether-API
 - fetch API from - https://home.openweathermap.org/
