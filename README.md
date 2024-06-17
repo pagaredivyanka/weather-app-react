@@ -92,4 +92,13 @@ Reference Link - https://www.npmjs.com/package/luxon
 ## OpenWether-API
 - fetch API from: [Weather API - OpenWeatherMap](https://home.openweathermap.org/)
 
+# Weather Details Provided
+- Today's Temperature - Current temperature and conditions.
+- Weather Conditions - Descriptions like rain, sunny, clear, etc.
+- Sunrise and Sunset Times - Accurate times for sunrise and sunset.
+- Minimum and Maximum Temperature - The day's minimum and maximum temperatures.
+- Pressure - Atmospheric pressure.
+- Humidity - Current humidity levels.
+- Location Details - City, State, Country, sea level, and ground level information.
+- Wind - Speed.
 
