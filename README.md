@@ -81,7 +81,7 @@ Luxon is a library for working with dates and times in JavaScript.
   - DateTime, Duration, and Interval types.
   - Immutable, chainable, unambiguous API.
   - Parsing and formatting for common and custom formats.
-  - Native time zone and Intl support (no locale or tz files).
+  - Native time zone and Intl support (no locale or TZ files).
 
 - Installation
   - npm i luxon
@@ -106,5 +106,18 @@ Reference Link - https://www.npmjs.com/package/luxon
 - Search by Text - Type the name of the city, state, or country in the search bar.
 <!-- - Voice Search - Click on the microphone icon and speak the location's name.  -->
 - Map Search - Select a location on the map to get the weather data.
-- Change Temperature Units: Switch between Celsius and Fahrenheit.
+- Change Temperature Units - Switch between Celsius and Fahrenheit.
+
+# Contributing
+Contributions are welcome! Folk the repository and create a pull request with your changes
+
+# Contact 
+For any questions, or feedback, or if you have any collaboration opportunities, feel free to reach out via the following channels -
+- **Github:** [pagaredivyanka](https://github.com/pagaredivyanka)
+- **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
+- **E-mail:** pagaredivyanka@gmail.com
+
+# Disclaimer..!
+This Weather App project is developed purely for educational purposes. It is not intended for commercial use or as a substitute for professional weather forecasting services. The data provided by this app is sourced from the OpenWeather API. While efforts have been made to ensure accuracy, no guarantee is made for the reliability or timeliness of the information. Users are encouraged to consult official weather sources for critical decisions or activities where accuracy is paramount.
+
 
