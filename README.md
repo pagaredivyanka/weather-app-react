@@ -102,3 +102,9 @@ Reference Link - https://www.npmjs.com/package/luxon
 - Location Details - City, State, Country, sea level, and ground level information.
 - Wind - Speed.
 
+# Usage 
+- Search by Text - Type the name of the city, state, or country in the search bar.
+<!-- - Voice Search - Click on the microphone icon and speak the location's name.  -->
+- Map Search - Select a location on the map to get the weather data.
+- Change Temperature Units: Switch between Celsius and Fahrenheit.
+
