@@ -73,7 +73,7 @@ Currently, two official plugins are available:
 
 Reference Link - https://vitejs.dev/guide/
 
-## telwind-css 
+## tailwind-css 
   - npm install -D tailwindcss
   - npx tailwindcss init
     
