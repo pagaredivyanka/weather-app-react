@@ -1,3 +1,4 @@
+
 import { DateTime } from "luxon";
 
 const API_KEY = 'd81ea9c62c41a80d220763951ed1cbcd';
@@ -95,3 +96,5 @@ const getFormattedWeatherData = async (searchParams) => {
 };
 
 export default getFormattedWeatherData;
+
+
