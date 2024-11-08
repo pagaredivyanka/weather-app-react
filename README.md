@@ -8,7 +8,6 @@
 - **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
 - **E-mail:** pagaredivyanka@gmail.com
 
-
 # Overview
 
 ## Features
@@ -26,13 +25,10 @@
 
 - **Location-based Services**
   - GPS-based location tracking for current location weather
- <!--  - Ability to search and save multiple locations -->
-- **User-friendly Interface**
-  - Intuitive design and navigation
- <!-- - Customizable themes (e.g., dark mode, light mode) -->
-- **Weather Maps**
+
+<!-- - **Weather Maps**
   - Interactive maps showing precipitation, temperature, and cloud cover
-  - Radar maps for tracking storms
+  - Radar maps for tracking storms  -->
     
 - **Sunrise and Sunset Times**
   - Accurate times for the user’s location
@@ -109,7 +105,7 @@ Reference Link - https://www.npmjs.com/package/luxon
 # Usage 
 - Search by Text - Type the name of the city, state, or country in the search bar.
 <!-- - Voice Search - Click on the microphone icon and speak the location's name.  -->
-- Map Search - Select a location on the map to get the weather data.
+<!-- - Map Search - Select a location on the map to get the weather data. -->
 - Change Temperature Units - Switch between Celsius and Fahrenheit.
 
 # Contributing
@@ -117,7 +113,6 @@ Contributions are welcome! Folk the repository and create a pull request with yo
 
 # Contact 
 For any questions, or feedback, or if you have any collaboration opportunities, feel free to reach out via the following channels -
-- **Github:** [pagaredivyanka](https://github.com/pagaredivyanka)
 - **LinkedIn:** [divyanka-pagare](https://www.linkedin.com/in/divyanka-pagare-269b0422b/)
 - **E-mail:** pagaredivyanka@gmail.com
 
