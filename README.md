@@ -9,6 +9,7 @@
 - **E-mail:** pagaredivyanka@gmail.com
 
 # Overview
+<img width="960" alt="{CA6242B9-EAA1-412E-8211-B08EE92BB33D}" src="https://github.com/user-attachments/assets/9b1f5a8c-9865-4118-bace-05802b9d9c80">
 
 ## Features
 - **Current Weather Conditions**
