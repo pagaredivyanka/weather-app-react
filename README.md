@@ -9,7 +9,9 @@
 - **E-mail:** pagaredivyanka@gmail.com
 
 # Overview
-![Screenshot (5)](https://github.com/user-attachments/assets/b70e27cd-aacf-4ffe-92da-7f764922d669)
+![Screenshot (2)](https://github.com/user-attachments/assets/8778dd0f-e0c6-49f8-ad83-461a9b24c5d2)
+
+
 ![Screenshot (4)](https://github.com/user-attachments/assets/7b9e5f2a-d762-4023-9ba1-d3c68803a292)
 <img width="960" alt="{CA6242B9-EAA1-412E-8211-B08EE92BB33D}" src="https://github.com/user-attachments/assets/9b1f5a8c-9865-4118-bace-05802b9d9c80">
 
